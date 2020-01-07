@@ -1,0 +1,31 @@
+﻿  Exam schedule.cpp
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Exam schedule\Exam schedule\Exam schedule.cpp(40,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Exam schedule\Exam schedule\Exam schedule.cpp(41,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Exam schedule\Exam schedule\Exam schedule.cpp(49,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Exam schedule\Exam schedule\Exam schedule.cpp(57,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Exam schedule\Exam schedule\Exam schedule.cpp(58,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Exam schedule\Exam schedule\Exam schedule.cpp(97,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Exam schedule\Exam schedule\Exam schedule.cpp(115,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Exam schedule\Exam schedule\Exam schedule.cpp(118,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Exam schedule\Exam schedule\Exam schedule.cpp(129,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Exam schedule\Exam schedule\Exam schedule.cpp(173,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Exam schedule\Exam schedule\Exam schedule.cpp(177,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Exam schedule\Exam schedule\Exam schedule.cpp(184,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Exam schedule\Exam schedule\Exam schedule.cpp(198,74): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Exam schedule\Exam schedule\Exam schedule.cpp(209,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Exam schedule\Exam schedule\Exam schedule.cpp(217,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Exam schedule\Exam schedule\Exam schedule.cpp(224,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Exam schedule\Exam schedule\Exam schedule.cpp(225,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Exam schedule\Exam schedule\Exam schedule.cpp(262,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Exam schedule\Exam schedule\Exam schedule.cpp(271,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Exam schedule\Exam schedule\Exam schedule.cpp(284,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Exam schedule\Exam schedule\Exam schedule.cpp(292,20): warning C4018: '<': signed/unsigned mismatch
+  Grade.cpp
+  Person.cpp
+  State.cpp
+  Subject.cpp
+  WeakConstraint.cpp
+  Generating Code...
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Exam schedule\Exam schedule\Exam schedule.cpp(302,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\Visual Studio 2019\Projects\Exam schedule\Exam schedule\Exam schedule.cpp(288): warning C4715: 'checkTheSameFloor': not all control paths return a value
+  Exam schedule.vcxproj -> C:\Users\hp\Documents\Visual Studio 2019\Projects\Exam schedule\Debug\Exam schedule.exe
